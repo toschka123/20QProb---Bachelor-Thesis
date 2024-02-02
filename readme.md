@@ -4,7 +4,7 @@ University: VU Amsterdam<br>
 Supervisor: B.B. Kruit<br>
 
 The pdf file contains the thesis. <br>
-The jupyter notebooks contain the code and the visualisations of the results.<br>
+The jupyter notebooks FullPy.ipynb and Experiment_20_Q_Prob.ipynb contain the code. The experiment is in a different file because it has been run using google colab for computing time reasons. The notebook results.ipynp contains the visualisations of the results.<br>
 The .tsv and .nt files contain the dataset that was used. <br>
 
 In this thesis I developed a new, robust approach for playing the 20 Questions Game (also known as Guess Who?) with a Knowledge Graph.
