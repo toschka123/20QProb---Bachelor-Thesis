@@ -3,6 +3,7 @@ Grade: 9/10 in the Dutch System <br>
 University: VU Amsterdam<br>
 Supervisor: B.B. Kruit<br>
 
+For a general overview see the Conference Poster. This was used to give a presentation about the Thesis at the BNAIC 2023
 The pdf file contains the thesis. <br>
 The jupyter notebooks FullPy.ipynb and Experiment_20_Q_Prob.ipynb contain the code. The experiment is in a different file because it has been run using google colab for computing time reasons. The notebook results.ipynp contains the visualisations of the results.<br>
 The file BayesWeightedEntropyRandomBranching.ipynb uses a previous approach connecting to GraphDB for Knowledge Graph interactions. The FullPy version was used to transfer the code into google colab, which could not be connected to graphDB. <br> 
