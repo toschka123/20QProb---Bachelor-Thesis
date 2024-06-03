@@ -13,3 +13,5 @@ In this thesis I developed a new, robust approach for playing the 20 Questions G
 This approach uses Naive Bayes in combination with the system entropy to ensure the questioneer can still guess the correct entity, even when the answerer gives wrong answers.
 This is especially relevant when interacting with knowledge graphs because design decisions and the closed world assumption can lead to errors. 
 The experiments investigate how well this approach performs under different patterns of wrong answers (comparing wrong answers at the start to wrong answers towards the end, etc) 
+
+![Alt text](images/PosterBNAIC.jpg)
