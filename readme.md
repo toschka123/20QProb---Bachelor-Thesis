@@ -14,4 +14,4 @@ This approach uses Naive Bayes in combination with the system entropy to ensure 
 This is especially relevant when interacting with knowledge graphs because design decisions and the closed world assumption can lead to errors. 
 The experiments investigate how well this approach performs under different patterns of wrong answers (comparing wrong answers at the start to wrong answers towards the end, etc) 
 
-![Alt text](images/PosterBNAIC.jpg)
+![Alt text](/PosterBNAIC.jpg)
